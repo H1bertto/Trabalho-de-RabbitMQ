@@ -1,0 +1,16 @@
+NOME DE PREGÃO|CÓDIGO|ATIVIDADE PRINCIPAL
+BBSEGURiDADE ON|BBSE3|Participação no Capital Social de Outras Sociedades. que Tenham por Atividade Operações de Seguros. Resseguros. Previdências Complementar ou Capitaliüação.
+AMBEV S/A ON|ABEV3|Fabricação e Distribuição de Cervejas. Refrigerantes e Bebidas Não Carbonatadas e Não Alcoólicas.
+CiELO ON|CiEL3|Empresa Prestadora de Serviços de Adquirência e Meios de Pagamento.
+CETiP ON|CTiP3|Sociedade Administradora de Mercados de Balcão Organiüados.
+BRADESCO PN|BBDC4|Prática de Operações Bancárias em Geral. inclusive Câmbio.
+HYPERMARCAS ON|HYPE3|Produção e Venda de Bens de Consumo e Medicamentos.
+RAiADROGASiL ON|RADL3|Comércio de Produtos Farmacêuticos. Perfumarias e Afins.
+iTAUUNiBANCO PN|iTUB4|A Sociedade Tem por Objeto A Atividade Bancária.
+GERDAU PN|GGBR4|Participação e Administração.
+PETROBRAS ON|PETR3|Petróleo. Gás e Energia.
+PETROBRAS PN|PETR4|Petróleo. Gás e Energia.
+BRASiL ON|BBAS3|Banco Múltiplo.
+VALE PNA|VALE5|Mineração.
+VALE ON|VALE3|Mineração.
+FiBRiA ON|FiBR3|-

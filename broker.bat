@@ -1,0 +1,1 @@
+@CD env/Scripts && activate && CD ../.. && python Worker.py broker
